@@ -23,5 +23,5 @@ will turn a quad mesh at `[source file]` into a destination mesh at
 ```
 ./quad_to_tri.py [source file]
 ```
-will turn a quad mesh at `[source file]` into a tri mesh and print to standard
-output.
+will turn a quad mesh at `[source file]` into a tri mesh and print its .obj
+representation to standard output.
